@@ -38,7 +38,7 @@ public class MainActivity extends ActionBarActivity {
         t1 = (TextView) findViewById(R.id.textView2);
         b=(Button)findViewById(R.id.button);
         httpclient = new DefaultHttpClient();
-        httppost = new HttpPost("http://96e4cefc.ngrok.io/");
+        httppost = new HttpPost("http://87848c10.ngrok.io/");
 
 
 
